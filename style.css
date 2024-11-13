@@ -1,0 +1,72 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+}
+.table1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 27px;
+ 
+}
+.green{
+    border: 5px solid black;
+    background-color: green;
+}
+.green-orange{
+    border: 5px solid black;
+    background-color: green;
+    color: orange;
+}
+.pink{
+    border: 5px solid black;
+    background-color: plum;
+}
+.orange{
+    border: 5px solid black;
+    background-color: orange;
+}
+.blue{
+    border: 5px solid black;
+    background-color: lightskyblue;
+}
+.purple{
+    border: 5px solid black;
+    background-color: cornflowerblue;
+}
+.black-white{
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+}
+.seegreen{
+    border: 5px solid black;
+    background-color: rgb(38, 81, 107);
+}
+.green-blue{
+    border: 5px solid black;
+    background-color: green;
+    color: lightskyblue;
+}
+.pink-blue{
+    border: 5px solid black;
+    background-color: plum;
+    color:lightskyblue;
+}
+.yellow{
+    border: 5px solid black;
+    background-color: rgb(255, 202, 12);
+}
+.lorange{
+    border: 5px solid black;
+    background-color: rgb(208, 134, 23);
+}
+.lorange-white{
+    border: 5px solid black;
+    background-color: rgb(208, 134, 23);
+    color:white;
+}
+.pink-white{
+    border: 5px solid black;
+    background-color: plum;
+    color: white;
